@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BeanUtils:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/BeanUtils_jar</output-path>
+    <root id="archive" name="BeanUtils.jar">
+      <element id="module-output" name="BeanUtils" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
